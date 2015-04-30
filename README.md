@@ -9,4 +9,3 @@ Resources
 * http://www.autoitscript.com/forum/topic/127719-how-do-you-get-the-mouse-coordinates/
 * https://www.autoitscript.com/autoit3/docs/functions/MouseMove.htm
 * http://brugbart.com/autoit-mousecoordmode
-* 
